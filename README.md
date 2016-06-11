@@ -1,6 +1,19 @@
-# Readme
+# Hello-World Readme
 
-# Testing github repositories.
+* Testing github repositories.
 
-# Added New text for AddNewFiles2
-# Added New text for AddNewFiles1
+# Line beginning with single hashtag
+## Line beginning with double hashtag
+### Line beginning with triple hashtag
+
+* Item 1
+	* Item a
+		* Item 1)
+			*Item a)
+			
+<hr></hr>			
+<p></p>			
+<br></br>			
+<div></div>
+
+# End			
