@@ -1,19 +1,26 @@
-# Hello-World Readme
+# **Hello-World** *Readme*
 
-* Testing github repositories.
+:guitar: Testing github repositories.
 
-# Line beginning with single hashtag
-## Line beginning with double hashtag
-### Line beginning with triple hashtag
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
-* Item 1
-	* Item a
-		* Item 1)
-			*Item a)
-			
-<hr>Header</hr>			
-<p>Paragraph</p>			
-<br>Break</br>			
-<div>Div</div>
+1. Item 1
+	* Item 1a
 
-# End			
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+>Testing Block Code
+>Line one
+>Line two
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
