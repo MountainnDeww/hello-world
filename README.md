@@ -16,10 +16,20 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 
 
-Testing Block Code
+Testing Blockquotes
 
 > Line one
 > Line two
+
+~~Strike Through~~
+
+<p>Line1</p>
+<p>Line2</p>
+<p>Line3</p>
+
+
+I think you should use an
+`<addr>` element here instead.
 
 
 First Header | Second Header
