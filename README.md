@@ -34,5 +34,7 @@ I think you should use an
 
 First Header | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Cell 1 | Cell 2
+First column | Second column
+Cell 3 | Cell 4
+Cell Five | Cell Six
